@@ -1,0 +1,18 @@
+***HELP***
+
+The rules are simple:
+
+Each player will be dealt a random hand of 13 cards.
+Each round, the top card will be drawn from each players hand.
+The player whose card has the highest value wins the round.
+After 13 rounds, the scores are tallied, and a winner is declared.
+
+To play is even simpler:
+
+After each player enters their name, press enter to cycle through 
+the rounds. After 13 rounds are completed, a new game can be started 
+by entering 'Y' when prompted. To stop playing, enter 'N'.
+
+You can view these rules again by entering '--help' when prompted. 
+
+***TYPE '--resume' TO CONTINUE YOUR GAME***

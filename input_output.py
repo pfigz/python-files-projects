@@ -1,0 +1,3 @@
+#Input & Output
+
+var = input()
